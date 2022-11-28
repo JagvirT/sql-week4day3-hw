@@ -68,7 +68,7 @@ GROUP BY staff.staff_id;
 
 SELECT rating, COUNT(rating)
 FROM film
-GROUP BY rating
+GROUP BY rating;
 
 
 -- 7.Show all customers who have made a single payment
